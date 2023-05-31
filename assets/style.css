@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+h4{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.navegacao{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    /* padding: 20px;
+    width: 520px;
+    height: 80px;
+    top: 148px; */
+    background: #0707a7;
+    border: 50px;
+    border-color: black;
+}
+
+.img-1 {
+    display: flex;
+}
